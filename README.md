@@ -1,5 +1,3 @@
-#GXREX
-
 Tool Sederhana Untuk Crack Instagram
 
 Cara Install Scripts
