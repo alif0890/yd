@@ -24,6 +24,6 @@ git clone https://github.com/alif0890/yd
 
 Cara Menjalankan Scripts
 
-cd GXREX
+cd yd
 
 python instagram.py
